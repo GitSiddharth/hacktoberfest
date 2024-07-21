@@ -8,6 +8,7 @@ What this script does?
 Running the script -
 python3 manage.py
 
+
 PS: DO NOT USE PYTHON 2
 """
 import re
